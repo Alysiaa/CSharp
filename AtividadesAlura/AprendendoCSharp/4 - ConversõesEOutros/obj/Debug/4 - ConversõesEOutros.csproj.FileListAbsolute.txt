@@ -1,0 +1,7 @@
+C:\Users\Ana\source\repos\AprendendoCSharp\4 - ConversõesEOutros\bin\Debug\4 - ConversõesEOutros.exe.config
+C:\Users\Ana\source\repos\AprendendoCSharp\4 - ConversõesEOutros\bin\Debug\4 - ConversõesEOutros.exe
+C:\Users\Ana\source\repos\AprendendoCSharp\4 - ConversõesEOutros\bin\Debug\4 - ConversõesEOutros.pdb
+C:\Users\Ana\source\repos\AprendendoCSharp\4 - ConversõesEOutros\obj\Debug\4 - ConversõesEOutros.csprojAssemblyReference.cache
+C:\Users\Ana\source\repos\AprendendoCSharp\4 - ConversõesEOutros\obj\Debug\4 - ConversõesEOutros.csproj.CoreCompileInputs.cache
+C:\Users\Ana\source\repos\AprendendoCSharp\4 - ConversõesEOutros\obj\Debug\4 - ConversõesEOutros.exe
+C:\Users\Ana\source\repos\AprendendoCSharp\4 - ConversõesEOutros\obj\Debug\4 - ConversõesEOutros.pdb

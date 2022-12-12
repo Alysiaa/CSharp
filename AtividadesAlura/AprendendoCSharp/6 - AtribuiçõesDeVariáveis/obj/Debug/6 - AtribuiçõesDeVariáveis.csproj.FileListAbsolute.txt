@@ -1,0 +1,8 @@
+C:\Users\Ana\source\repos\AprendendoCSharp\6 - AtribuiçõesDeVariáveis\bin\Debug\6 - AtribuiçõesDeVariáveis.exe.config
+C:\Users\Ana\source\repos\AprendendoCSharp\6 - AtribuiçõesDeVariáveis\bin\Debug\6 - AtribuiçõesDeVariáveis.exe
+C:\Users\Ana\source\repos\AprendendoCSharp\6 - AtribuiçõesDeVariáveis\bin\Debug\6 - AtribuiçõesDeVariáveis.pdb
+C:\Users\Ana\source\repos\AprendendoCSharp\6 - AtribuiçõesDeVariáveis\obj\Debug\6 - AtribuiçõesDeVariáveis.csproj.CoreCompileInputs.cache
+C:\Users\Ana\source\repos\AprendendoCSharp\6 - AtribuiçõesDeVariáveis\obj\Debug\6 - AtribuiçõesDeVariáveis.exe
+C:\Users\Ana\source\repos\AprendendoCSharp\6 - AtribuiçõesDeVariáveis\obj\Debug\6 - AtribuiçõesDeVariáveis.pdb
+C:\Users\Ana\source\repos\AprendendoCSharp\6 - AtribuiçõesDeVariáveis\obj\Debug\6 - AtribuiçõesDeVariáveis.csproj.AssemblyReference.cache
+C:\Users\Ana\source\repos\AprendendoCSharp\6 - AtribuiçõesDeVariáveis\obj\Debug\6 - AtribuiçõesDeVariáveis.csproj.SuggestedBindingRedirects.cache

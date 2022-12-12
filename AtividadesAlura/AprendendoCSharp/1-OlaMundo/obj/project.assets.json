@@ -1,0 +1,49 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v6.0": {},
+    ".NETFramework,Version=v6.0/win7-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v6.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Ana\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Ana\\source\\repos\\AprendendoCSharp\\1-OlaMundo\\1-OlaMundo.csproj",
+      "projectName": "1-OlaMundo",
+      "projectPath": "C:\\Users\\Ana\\source\\repos\\AprendendoCSharp\\1-OlaMundo\\1-OlaMundo.csproj",
+      "packagesPath": "C:\\Users\\Ana\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ana\\source\\repos\\AprendendoCSharp\\1-OlaMundo\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Ana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net60"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net60": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net60": {}
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}
