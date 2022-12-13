@@ -5,14 +5,28 @@ class Programa
     {
         Console.WriteLine("Projeto 7 - Condicionais");
 
-        int idade = 30;
-        int idadeAna = idade;
+        int idadeAna = 16;
+        int acompanhante = 1;
+
         Console.WriteLine(idadeAna);
+        if (idadeAna >= 18)
+        {
+            Console.WriteLine("Pode entrar!");
+        }
+        else
+        {
+            if (acompanhante > 1)
+            {
+                Console.WriteLine("Está com acompanhante, pode acessar!");
+            }
+            else
+            {
+                Console.WriteLine("Não pode acessar!");
+            }
 
-        idade = 25;
-        Console.WriteLine(idade);
+            Console.WriteLine("Tecle enter para fechar!");
+            Console.ReadLine();
+        }
 
-        Console.WriteLine("Tecle enter para fechar!");
-        Console.ReadLine();
     }
 }
