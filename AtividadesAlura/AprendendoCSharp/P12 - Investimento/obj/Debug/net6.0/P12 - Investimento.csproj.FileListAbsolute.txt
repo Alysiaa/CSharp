@@ -1,0 +1,15 @@
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P12 - Investimento\bin\Debug\net6.0\P12 - Investimento.exe
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P12 - Investimento\bin\Debug\net6.0\P12 - Investimento.deps.json
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P12 - Investimento\bin\Debug\net6.0\P12 - Investimento.runtimeconfig.json
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P12 - Investimento\bin\Debug\net6.0\P12 - Investimento.dll
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P12 - Investimento\bin\Debug\net6.0\P12 - Investimento.pdb
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P12 - Investimento\obj\Debug\net6.0\P12 - Investimento.csproj.AssemblyReference.cache
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P12 - Investimento\obj\Debug\net6.0\P12 - Investimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P12 - Investimento\obj\Debug\net6.0\P12 - Investimento.AssemblyInfoInputs.cache
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P12 - Investimento\obj\Debug\net6.0\P12 - Investimento.AssemblyInfo.cs
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P12 - Investimento\obj\Debug\net6.0\P12 - Investimento.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P12 - Investimento\obj\Debug\net6.0\P12 - Investimento.dll
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P12 - Investimento\obj\Debug\net6.0\refint\P12 - Investimento.dll
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P12 - Investimento\obj\Debug\net6.0\P12 - Investimento.pdb
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P12 - Investimento\obj\Debug\net6.0\P12 - Investimento.genruntimeconfig.cache
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P12 - Investimento\obj\Debug\net6.0\ref\P12 - Investimento.dll
