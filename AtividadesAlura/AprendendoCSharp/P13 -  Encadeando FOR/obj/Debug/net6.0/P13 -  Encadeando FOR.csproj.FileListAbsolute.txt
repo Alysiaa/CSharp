@@ -1,0 +1,15 @@
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P13 -  Encadeando FOR\bin\Debug\net6.0\P13 -  Encadeando FOR.exe
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P13 -  Encadeando FOR\bin\Debug\net6.0\P13 -  Encadeando FOR.deps.json
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P13 -  Encadeando FOR\bin\Debug\net6.0\P13 -  Encadeando FOR.runtimeconfig.json
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P13 -  Encadeando FOR\bin\Debug\net6.0\P13 -  Encadeando FOR.dll
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P13 -  Encadeando FOR\bin\Debug\net6.0\P13 -  Encadeando FOR.pdb
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P13 -  Encadeando FOR\obj\Debug\net6.0\P13 -  Encadeando FOR.csproj.AssemblyReference.cache
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P13 -  Encadeando FOR\obj\Debug\net6.0\P13 -  Encadeando FOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P13 -  Encadeando FOR\obj\Debug\net6.0\P13 -  Encadeando FOR.AssemblyInfoInputs.cache
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P13 -  Encadeando FOR\obj\Debug\net6.0\P13 -  Encadeando FOR.AssemblyInfo.cs
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P13 -  Encadeando FOR\obj\Debug\net6.0\P13 -  Encadeando FOR.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P13 -  Encadeando FOR\obj\Debug\net6.0\P13 -  Encadeando FOR.dll
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P13 -  Encadeando FOR\obj\Debug\net6.0\refint\P13 -  Encadeando FOR.dll
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P13 -  Encadeando FOR\obj\Debug\net6.0\P13 -  Encadeando FOR.pdb
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P13 -  Encadeando FOR\obj\Debug\net6.0\P13 -  Encadeando FOR.genruntimeconfig.cache
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P13 -  Encadeando FOR\obj\Debug\net6.0\ref\P13 -  Encadeando FOR.dll
