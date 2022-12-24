@@ -1,0 +1,15 @@
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P14 - Fatorial\obj\Debug\net6.0\P14 - Fatorial.csproj.AssemblyReference.cache
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P14 - Fatorial\obj\Debug\net6.0\P14 - Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P14 - Fatorial\obj\Debug\net6.0\P14 - Fatorial.AssemblyInfoInputs.cache
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P14 - Fatorial\obj\Debug\net6.0\P14 - Fatorial.AssemblyInfo.cs
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P14 - Fatorial\obj\Debug\net6.0\P14 - Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P14 - Fatorial\bin\Debug\net6.0\P14 - Fatorial.exe
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P14 - Fatorial\bin\Debug\net6.0\P14 - Fatorial.deps.json
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P14 - Fatorial\bin\Debug\net6.0\P14 - Fatorial.runtimeconfig.json
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P14 - Fatorial\bin\Debug\net6.0\P14 - Fatorial.dll
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P14 - Fatorial\bin\Debug\net6.0\P14 - Fatorial.pdb
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P14 - Fatorial\obj\Debug\net6.0\P14 - Fatorial.dll
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P14 - Fatorial\obj\Debug\net6.0\refint\P14 - Fatorial.dll
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P14 - Fatorial\obj\Debug\net6.0\P14 - Fatorial.pdb
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P14 - Fatorial\obj\Debug\net6.0\P14 - Fatorial.genruntimeconfig.cache
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\P14 - Fatorial\obj\Debug\net6.0\ref\P14 - Fatorial.dll
