@@ -1,0 +1,15 @@
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\10 - Cálculo de Poupança\bin\Debug\net6.0\P10 - Cálculo de Poupança.exe
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\10 - Cálculo de Poupança\bin\Debug\net6.0\P10 - Cálculo de Poupança.deps.json
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\10 - Cálculo de Poupança\bin\Debug\net6.0\P10 - Cálculo de Poupança.runtimeconfig.json
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\10 - Cálculo de Poupança\bin\Debug\net6.0\P10 - Cálculo de Poupança.dll
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\10 - Cálculo de Poupança\bin\Debug\net6.0\P10 - Cálculo de Poupança.pdb
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\10 - Cálculo de Poupança\obj\Debug\net6.0\P10 - Cálculo de Poupança.csproj.AssemblyReference.cache
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\10 - Cálculo de Poupança\obj\Debug\net6.0\P10 - Cálculo de Poupança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\10 - Cálculo de Poupança\obj\Debug\net6.0\P10 - Cálculo de Poupança.AssemblyInfoInputs.cache
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\10 - Cálculo de Poupança\obj\Debug\net6.0\P10 - Cálculo de Poupança.AssemblyInfo.cs
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\10 - Cálculo de Poupança\obj\Debug\net6.0\P10 - Cálculo de Poupança.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\10 - Cálculo de Poupança\obj\Debug\net6.0\P10 - Cálculo de Poupança.dll
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\10 - Cálculo de Poupança\obj\Debug\net6.0\refint\P10 - Cálculo de Poupança.dll
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\10 - Cálculo de Poupança\obj\Debug\net6.0\P10 - Cálculo de Poupança.pdb
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\10 - Cálculo de Poupança\obj\Debug\net6.0\P10 - Cálculo de Poupança.genruntimeconfig.cache
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\10 - Cálculo de Poupança\obj\Debug\net6.0\ref\P10 - Cálculo de Poupança.dll
