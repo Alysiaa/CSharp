@@ -1,0 +1,15 @@
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\9 - Switch\bin\Debug\net6.0\9 - Switch.exe
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\9 - Switch\bin\Debug\net6.0\9 - Switch.deps.json
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\9 - Switch\bin\Debug\net6.0\9 - Switch.runtimeconfig.json
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\9 - Switch\bin\Debug\net6.0\9 - Switch.dll
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\9 - Switch\bin\Debug\net6.0\9 - Switch.pdb
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\9 - Switch\obj\Debug\net6.0\9 - Switch.csproj.AssemblyReference.cache
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\9 - Switch\obj\Debug\net6.0\9 - Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\9 - Switch\obj\Debug\net6.0\9 - Switch.AssemblyInfoInputs.cache
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\9 - Switch\obj\Debug\net6.0\9 - Switch.AssemblyInfo.cs
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\9 - Switch\obj\Debug\net6.0\9 - Switch.csproj.CoreCompileInputs.cache
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\9 - Switch\obj\Debug\net6.0\9 - Switch.dll
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\9 - Switch\obj\Debug\net6.0\refint\9 - Switch.dll
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\9 - Switch\obj\Debug\net6.0\9 - Switch.pdb
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\9 - Switch\obj\Debug\net6.0\9 - Switch.genruntimeconfig.cache
+C:\Users\Ana\Documents\AprendendoCSharp\CSharp\AtividadesAlura\AprendendoCSharp\9 - Switch\obj\Debug\net6.0\ref\9 - Switch.dll
